@@ -1,0 +1,8 @@
+mu_string = input("введите текст")
+x = len(mu_string)
+print(x)
+print(mu_string.upper())
+print(mu_string.lower())
+print(mu_string.replace(" ", ""))
+print(mu_string[0])
+print(mu_string[-1])
